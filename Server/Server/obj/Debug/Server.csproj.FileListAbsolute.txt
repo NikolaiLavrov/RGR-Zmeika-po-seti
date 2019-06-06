@@ -1,0 +1,20 @@
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\bin\Debug\Server.exe.config
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\bin\Debug\Server.exe
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\bin\Debug\Server.pdb
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.exe
+C:\Users\root\Desktop\蛇蛇大戰\Server\Server\obj\Debug\Server.pdb
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\bin\Debug\Server.exe
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\bin\Debug\Server.pdb
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.exe
+C:\Users\Kelevra\Desktop\Проетирование РГР\snack_battle-master\蛇蛇大戰\Server\Server\obj\Debug\Server.pdb
